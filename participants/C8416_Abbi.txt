@@ -1,0 +1,7 @@
+
+
+
+
+
+
+How I can add line to vim without overide
