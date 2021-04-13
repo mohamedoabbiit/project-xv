@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -5,3 +6,8 @@
 
 
 How I can add line to vim without overide
+=======
+My name is Mohamed Abbi I live in Arlington City
+
+I love plying with Git command
+>>>>>>> developer-C8416_Abbi
